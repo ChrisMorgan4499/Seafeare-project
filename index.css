@@ -1,0 +1,305 @@
+.html{
+    scroll-behavior: smooth;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    align-items: center;
+    margin: 0 8rem 0rem 6rem;
+}
+
+.logo{
+    width: 8rem;
+    height: 1.3rem;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: #000;
+}
+
+header{
+    background-image: url(goods.png);
+    background-size: cover;
+    width: 98%;
+    height: 75vh;
+    margin: auto;
+}
+
+.ecom{
+    display: flex;
+    justify-content: space-between;
+    color: #ffff;
+    padding-top: 27%;
+    margin: 0 6.7rem 0rem 4.2rem;
+    font-size: larger;
+}
+
+.we{
+    display: flex;
+    justify-content: space-between;
+    color: #ffff;
+    gap: 2rem;
+    align-items: center;
+    
+}
+
+.arr{
+    width: 5rem;
+    height: 4rem;
+}
+
+.container1{
+    width: 74rem;
+    height: 5rem;
+    border-bottom: 2px solid #828282;
+    margin-left: 12px;
+}
+
+h2{
+    font-weight: 2rem;
+    font-size: 3rem;
+    margin: 0rem 4rem 0rem 3.5rem;
+}
+
+.container2{
+    width: 74rem;
+    height: 23rem ;
+    border: 0px solid white;
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 22rem;
+}
+
+.container3{
+    width: 20rem;
+    height: 15rem;
+    border: 0px solid white;
+    padding-left: 3rem;
+}
+
+.container4{
+    width: 20rem;
+    height: 15rem;
+    border: 0px solid white;
+    margin: 7rem 1rem;
+}
+
+.logi{
+    font-size: 2.3rem;
+    font-weight: bolder;
+}
+
+.aust{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.ov{
+    width: 35px;
+    height: 37px;
+}
+
+.container5{
+    width: 74rem;
+    height: 26rem;
+    border: 1px solid white;
+    margin-left: 12px;
+} 
+
+.real{
+    width: 74rem;
+    height: 26rem;
+
+}
+ .container6{
+    width: 74rem;
+    height: 20rem;
+    border: 0px solid white;
+    margin-left: 12px;
+    display: flex;
+    gap: 22rem;
+ }
+
+ .container7{
+    width: 20rem;
+    height: 14rem;
+    border: 0px solid white;
+    padding-left: 3rem;
+    margin: 7rem 1rem;
+ }
+
+ .container8{
+    width: 20rem;
+    height: 15rem;
+    border: 0px solid white;
+    margin: 7rem 1rem;
+ }
+
+ .are{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #000;
+ }
+
+ .scale{
+    font-size: medium;
+    font-weight: lighter;
+    color: #000;
+ }
+
+ .grp{
+    width: 38px;
+    height: 37px;
+ }
+
+ .container9{
+    width: 74rem;
+    height: 26rem;
+    border: 0px solid white;
+    margin-left: 12px;
+ }
+
+ .big{
+    width: 74rem;
+    height: 26rem;
+ }
+
+ .container10{
+    width: 74rem;
+    height: 20rem;
+    border: 0px solid white;
+    margin-left: 12px;
+    display: flex;
+    gap: 22rem;
+ }
+
+ .container11{
+    width: 20rem;
+    height: 14rem;
+    border: 0px solid white;
+    padding-left: 3rem;
+    margin: 7rem 1rem;
+ }
+
+ .container12{
+    width: 20rem;
+    height: 15rem;
+    border: 0px solid white;
+    margin: 7rem 1rem;
+ }
+
+ .container13{
+    width: 74rem;
+    height: 20rem;
+    border: 0px solid white;
+    margin-left: 12px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .container14{
+    width: 21rem;
+    height: 20rem;
+    border: 0px solid white;
+ }
+
+ .container15{
+    width: 21rem;
+    height: 20rem;
+    border: 0px solid white;
+ }
+
+ .container16{
+    width: 21rem;
+    height: 20rem;
+    border: 0px solid white;
+ }
+
+ .ship{
+    width: 21rem;
+    height: 20rem;
+
+ }
+
+ .container17{
+    width: 74rem;
+    height: 20rem;
+    border: 0  px solid white;
+    margin-left: 12px;
+    display: flex;
+    gap: 22rem;
+ }
+
+ .container18{
+    width: 15rem;
+    height: 13rem;
+    border: 0px solid white;
+    padding-left: 3rem;
+    margin: 7rem 1rem;
+
+    
+ }
+
+ .container19{
+    width: 15rem;
+    height: 5rem;
+    border: 0px solid white;
+    margin: 7rem 1rem;
+ }
+
+ .container20{
+    width: 10rem;
+    height: 5rem;
+    border: 0px solid white;
+ }
+
+ .container21{
+   width: 74rem;
+   height: 23rem;
+   border: 0px solid white;
+   margin-left: 12px;
+   gap:4rem ;
+   display: flex;
+ }
+
+ .container22{
+   width: 35rem;
+   height: 17rem;
+   border: 0px solid white;
+ }
+
+ .container23{
+   width: 35rem;
+   height: 17rem;
+   border: 0px solid white;
+ }
+
+ .noha{
+   width: 34.8rem;
+   height: 16rem;
+ }
+
+.container24{
+   width: 74rem;
+   height: 27rem;
+   border: 1px solid black;
+   margin-left: 12px;
+}
+
+.foot{
+   width: 74rem;
+   height: 27rem;
+}
