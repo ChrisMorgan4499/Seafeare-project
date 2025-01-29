@@ -1,0 +1,28 @@
+.container28{
+    width: 74rem;
+   height: 23rem;
+   border: 0px solid black;
+   margin-left: 12px;
+   gap:4rem ;
+   display: flex;
+   justify-content: space-between;}
+
+   .container29{
+    width: 30rem;
+    height: 23rem;
+    border: 0px solid black;}
+
+    .container30{
+        width: 30rem;
+        height: 23rem;
+        border: 0px solid black;}
+
+    .ways{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: larger;
+    }
+
+    .tral{
+        width: 30rem;
+        height: 23rem;
+    }
